@@ -70,7 +70,8 @@ Gives recommendation for study spots and gives a description about the space. It
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="" width=600>
+![IMG_0058](https://user-images.githubusercontent.com/86747062/140687816-143f4448-1a01-4916-b43e-a762fdeaadb6.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
