@@ -93,12 +93,40 @@ This app is intended to provide alternative UCSB study spaces. For each study sp
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
-
+*
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+
+Building 
+| Property  | Type | Description |
+| ------------- | ------------- |  ------------- |
+| image  | file | imag eof building  |
+| name  | string  | name of building  |
+
+Room 
+| Property  | Type | Description |
+| ------------- | ------------- |  ------------- |
+| image  | file | image of room  |
+| name  | string  | name of room  |
+| rating  | number | number of likes  |
+| various amenities | bool | availability(true or fals)|
 ### Networking
+
 - [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+* Home Feed Screen
+   * 
+
+* Building Feed Screen
+   * (Read/GET) Query of all Buildings
+* Room Feed Screen 
+   * (Read/GET)  Query of all Rooms of Building 
+   * (Read/GET)  Query of Rating
+
+* Room Profile Screen
+   * (Read/GET) Query of image, name, location, amenities
+   * (Create/POST) Create a new like on a Room
+
+- [Create basic snippets for each Parse network request] ? 
+- [OPTIONAL: List endpoints if using existing API such as Yelp] ?do we need this
