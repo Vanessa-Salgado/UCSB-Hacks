@@ -1,7 +1,8 @@
-Original App Design Project - README Template
+App Design Project - README 
 ===
 
-# UCSB-Hacks
+# UCSB Study Rooms
+## Team Members: Vanessa Salgado, Luis Miguel, Dylan Cocoletzi 
 
 ## Table of Contents
 1. [Overview](#Overview)
