@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-Gives recommendation for study spots and gives a description about the space. It is also a way to explore and get to know campus.
+This app is intended to provide alternative UCSB study spaces. For each study space a user can access different amenties of each study space. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -30,36 +30,53 @@ Gives recommendation for study spots and gives a description about the space. It
 
 * Can see icon image
 * Can see styled launch screen
-* Can see a small image with a small description
-* Can scroll down and up to see different study spaces
-* Can click on the image and send to a new screen where a bigger image and more description is provided
-* Can go back and forth with a button
+* User can see a list of Buildings 
+* User can click on a Building that send them to a list of study rooms in that building
+* User can scroll down on study rooms list
+* User can click on the image of study room and send to a new screen where a bigger image and more description is provided
+* User can access details of a study room such as larger image, location, hours, and different amenities
 
 **Optional Nice-to-have Stories**
 
 * User can log in and log out
-* User can sign up
-* User can like a study space
+* User can upload a recommended study space
+* User can rate a study space
+* User can filter through study spaces
+
 
 ### 2. Screen Archetypes
 
-* Scrolling Screen
-   * There is an image provide for each study space
-   * There is a description provide for each study space
+* Buildings Scrolling Screen(Selection)
+   * User can see and scroll through Buildings and their names 
    * User can scroll up and down the screen
-   * User can like on a image
-* Study Space Scree
-   * There is a larger image of the study space
-   * There is a more descriptive text about the study space
+* Study Room Scolling Screen(Selection)
+   * User can see and scroll through room images and number/name
+   * User can see room rating 
    * User can go back to the previous screen with the back button
+* Study Room  Screen(Detail)
+   * User can see larger image of the study space
+   * User can see location(map), hours, ammenities such as noise leve, outlets, supplies, technology availble
+   * User can go back to the previous screen with the back button
+   * User can rate down on study space 
+* Search Building Room Screen(Search)
+   * User can search for a specifc building or room 
+   * If user searches for building, it allows user to go directly to building's list of rooms 
+   * If user searches for rooms, it allows user to go direclty to room's profile
+* Submisttion Form Screen
+   * User can submit image, name, and amenities of a room
+   * User can click on submit button
+* Pop Up Library Waitz Website()
+   * User can see a pop up screen of UCSB Library Waitz Website
+
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Setting
-* Profile
-* Poster
+* Home 
+* UCSB Library Waitz
+* Search 
+* Submit Option 
 
 **Flow Navigation** (Screen to Screen)
 
@@ -69,7 +86,8 @@ Gives recommendation for study spots and gives a description about the space. It
    * Get to see a poster and text
 
 ## Wireframes
-![IMG_0058](https://user-images.githubusercontent.com/86747062/140687816-143f4448-1a01-4916-b43e-a762fdeaadb6.jpg)
+![Wireframe Sketch](/Images/Basic-Wireframe.jpeg)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
