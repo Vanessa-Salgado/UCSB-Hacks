@@ -9,6 +9,7 @@ App Design Project - README
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 2. [Schema](#Schema)
+3. [Video Walkthrough](#Gif)
 
 ## Overview
 ### Description
@@ -97,6 +98,10 @@ This app is intended to provide alternative UCSB study spaces. For each study sp
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
+
+###Video Walkthrough
+![Screen Recording 2021-11-19 at 6 50 10 PM](https://user-images.githubusercontent.com/86747062/142712218-18bc3de6-2b5b-4095-9c48-a1e8f406744f.gif)
+
 
 Building 
 | Property  | Type | Description |
