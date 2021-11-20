@@ -141,4 +141,3 @@ Room
 * Obtained the Icon Image
 * Obtained study room pictures
 * Created a basic storyboard layout
-* 
