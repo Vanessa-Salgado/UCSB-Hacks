@@ -99,7 +99,7 @@ This app is intended to provide alternative UCSB study spaces. For each study sp
 [This section will be completed in Unit 9]
 ### Models
 
-###Video Walkthrough
+### Video Walkthrough
 ![Screen Recording 2021-11-19 at 6 50 10 PM](https://user-images.githubusercontent.com/86747062/142712218-18bc3de6-2b5b-4095-9c48-a1e8f406744f.gif)
 
 
