@@ -135,3 +135,10 @@ Room
 
 - [Create basic snippets for each Parse network request] ? 
 - [OPTIONAL: List endpoints if using existing API such as Yelp] ?do we need this
+
+### Sprint 1 Progress
+* Created the Launch Screen
+* Obtained the Icon Image
+* Obtained study room pictures
+* Created a basic storyboard layout
+* 
