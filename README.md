@@ -30,20 +30,20 @@ This app is intended to provide alternative UCSB study spaces. For each study sp
 
 **Required Must-have Stories**
 
-* Can see icon image
-* Can see styled launch screen
-* User can see a list of Buildings 
-* User can click on a Building that send them to a list of study rooms in that building
-* User can scroll down on study rooms list
-* User can click on the image of study room and send to a new screen where a bigger image and more description is provided
-* User can access details of a study room such as larger image, location, hours, and different amenities
+-[X] Can see icon image 
+-[X] Can see styled launch screen
+-[] User can see a list of Buildings 
+-[] User can click on a Building that send them to a list of study rooms in that building
+-[] User can scroll down on study rooms list
+-[] User can click on the image of study room and send to a new screen where a bigger image and more description is provided
+-[] User can access details of a study room such as larger image, location, hours, and different amenities
 
 **Optional Nice-to-have Stories**
 
-* User can log in and log out
-* User can upload a recommended study space
-* User can rate a study space
-* User can filter through study spaces
+-[] User can log in and log out
+-[] User can upload a recommended study space
+-[] User can rate a study space
+-[] User can filter through study spaces
 
 
 ### 2. Screen Archetypes
