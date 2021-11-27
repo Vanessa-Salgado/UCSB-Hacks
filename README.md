@@ -141,3 +141,18 @@ Room
 * Obtained the Icon Image
 * Obtained study room pictures
 * Created a basic storyboard layout
+
+
+# UCSB Study Rooms Part 2
+
+
+### 1. App Functionality
+
+- [x] Can scroll through TableView on Home screen
+- [x] Can switch through screens by Tab bar
+- [x] User can type in a building in Search screen
+- [x] User can type in name and building in Study Space Submission screen
+
+### Video Walkthrough!
+
+![UCSB Hacks gif3](https://user-images.githubusercontent.com/90986902/143668732-17c92119-3ca0-4329-8620-d309a4f6ca10.gif)
